@@ -2,7 +2,7 @@
 
 Projeto simples em HTML, CSS e JavaScript que simula um sorteio de **Amigo Secreto**. Ideal para praticar lógica de programação, manipulação do DOM e interações com o usuário na web.
 
-![Amigo Secreto Banner](assets/amigo-secreto.png)
+![Amigo Secreto Banner](./challenge-amigo-secreto_pt-main/assets/amigo-secreto.png)
 
 ## 📌 Funcionalidades
 
